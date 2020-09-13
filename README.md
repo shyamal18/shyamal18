@@ -2,6 +2,11 @@
 
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/ananya-shyamal-b489aa165/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/AnanyaShyamal)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/ananyashyamal)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](https://mail.google.com/mail/u/0/#inbox)
 
+![GitHub followers](https://img.shields.io/github/followers/shyamal18?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/shyamal18) 
+[![Years Badge](https://badges.pufler.dev/years/shyamal18)](https://badges.pufler.dev/years/shyamal18)
+[![Repos Badge](https://badges.pufler.dev/repos/shyamal18)](https://badges.pufler.dev/repos/shyamal18)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/shyamal18)](https://badges.pufler.dev/commits/monthly/shyamal18)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
